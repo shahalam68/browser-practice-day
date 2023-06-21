@@ -15,4 +15,6 @@ const addProduct = () => {
 
     price.value = '';
 } 
-
+const displayProduct =() => {
+    
+}
